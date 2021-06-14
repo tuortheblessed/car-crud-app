@@ -1,4 +1,4 @@
-### car-crud-app
+## car-crud-app
 
 ### change directory to car-crud-app
 cd car-crud-app
@@ -28,8 +28,6 @@ nodemon
 ### Open app in broswer
 http://localhost:8080/
 
-<!-- TODO: add filters/queries -->
-<!-- TODO: unit tests -->
 
 #### Code Challenge Description
 
